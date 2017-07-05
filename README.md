@@ -1,0 +1,2 @@
+# LeanSheets
+A simpler spreadsheet.
