@@ -1,2 +1,2 @@
 Install Link:
-https://nofile.io/g/hSaLrOMBD7aoS2p1LC6awOvAigPZGgdy1tOzLuxr2y6WBAZ3wk6eLzER7EQYNhGA/LeanSheets_Installer.msi/
+https://nofile.io/g/HDk4S57yA2ceo05vTCGBuNLQOXsDCLMc0kgyZUmPVtyek6X0eFBfCMtSD62YwD0X/LeanSheets_Installer.msi/
